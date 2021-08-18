@@ -8,7 +8,6 @@ keywords:
         alcohol: 4
         HRV: 3
         heart rate variability: 3
-        anomaly detection: 1
 
 # 通知の閾値
 score_threshold: 0

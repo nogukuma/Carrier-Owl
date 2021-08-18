@@ -3,8 +3,11 @@ subject: 'cat:cs.* OR cat:q-bio.* OR cat:eess.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
+        drunkenness: 4
+        intoxication: 4
+        alcohol: 4
+        HRV: 3
+        heart rate variability: 3
         anomaly detection: 1
 
 # 通知の閾値

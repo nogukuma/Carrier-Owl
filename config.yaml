@@ -10,6 +10,7 @@ keywords:
         heart rate variability: 3
         anomaly detection: 3
         medical: 3
+        RRI: 4
 
 # 通知の閾値
 score_threshold: 0

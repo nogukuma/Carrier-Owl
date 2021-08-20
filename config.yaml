@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.* OR cat:q-bio.* OR cat:eess.*'
+subject: 'cat:cs.* OR cat:q-bio.* OR cat:eess.* OR cat:astro-ph.* cat:physics.*'
 
 # 検索キーワード
 keywords:
@@ -8,6 +8,8 @@ keywords:
         alcohol: 4
         HRV: 3
         heart rate variability: 3
+        anomaly detection: 3
+        medical: 3
 
 # 通知の閾値
 score_threshold: 0
